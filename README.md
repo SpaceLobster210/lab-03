@@ -2,11 +2,10 @@
 
 ## References and Resources
 
-List any resources used here, or simply put `N/A` if not applicable.
+[Instantiating a New Android Fragment - Stack Overflow](https://stackoverflow.com/questions/9245408/best-practice-for-instantiating-a-new-android-fragment)
 
 ## Verbal Collaboration
 
 | Student Name | CCID      |
 | ------------ | --------- |
-| `student`    | `student` |
-| `<Add more>` | `<CCID>`  |
+| Liam Latham  | llatham   |
